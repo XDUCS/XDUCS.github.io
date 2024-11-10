@@ -21,4 +21,4 @@ comments: true
 
 ## 联系我们
 
-你可以直接发邮件给我：zhihaoli@stu.xidian.edu.cn，如果你有任何问题，欢迎在仓库提一个issue，我们会尽快回复你。
+你可以直接发邮件联系：xducs@hotmail.com，如果你有任何问题，欢迎在仓库提一个issue，我们会尽快回复你。
