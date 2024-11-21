@@ -50,8 +50,7 @@ comments: true
 │   ├── EmbeddedSystem/       # 计科嵌入式系统方向
 │   ├── Intelligence/         # 计科大数据智能方向
 │   ├── Network/              # 计科网络与信息安全方向
-│   ├── SoftwareTheory/       # 计科软件与理论方向
-│   └── Pilot/                # 计科试点班
+│   └── SoftwareTheory/       # 计科软件与理论方向
 ├── mkdocs.yml          # mkdocs 站点设置
 ├── overrides/          # mkdocs-material 个性主题设置
 ├── README.md           # 站点、仓库介绍
